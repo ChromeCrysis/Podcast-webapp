@@ -1,7 +1,7 @@
 import React from 'react';
 import * as S from './styles'
 
-import teste from '../../assets/anderson.jpg'
+import teste from '../../assets/podcasts/images/codersgatelogo.jpeg'
 
 function Navbar(){
     return(

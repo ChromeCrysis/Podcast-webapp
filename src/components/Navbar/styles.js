@@ -1,11 +1,10 @@
 import styled from 'styled-components'
-import teste from '../../assets/anderson.jpg'
+import teste from '../../assets/podcasts/images/codersgatelogo.jpeg'
 
 export const Cover = styled.div`
     display: flex;
-    width: 100%;
+    max-width: 100%;
     height: 35vh;
-    background-color: #f11;
     padding: 2.5vh;
     background-image: url(".${teste}");
     background-repeat: no-repeat;
